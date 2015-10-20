@@ -8,5 +8,6 @@ Horse
 Goat
 Monkey
 Rooster
-Dog
+Dog or dogs or dogss
 Pig
+
