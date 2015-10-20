@@ -1,0 +1,35 @@
+-->git init : launch the version control
+-->git status : gives you the status of the files thatt are staged/tracked or untracked by git
+-->git add : add a specific file to the git directory and then this files starts begin tracked by git version control
+  rk: instead of the name of the file you can put . and then it will add the entire directory to the git directory
+git commit -m "comments related to the changes done" : submit the changes done to all the files you added to the git directory with the comment in ""
+
+If you change one of the file in the git directory and you want to submit the changes then you need to first
+1) add this new version to the directory
+2) commit the changes with some comments
+==>
+-->git add nameofthefile
+-->git commit -m "comments"
+
+then to see all the different changes:
+-->git log
+
+if you have not submit the changes yet (using the command add and commit) 
+you can see the difference between the older version (stored in git) 
+and this new version with:
+-->git diff nameoffile
+
+If you want to submit changes for a bunch of different files that you made within your current directory
+you can use the shortcut . when adding (git add .) 
+and it will add only the files that were changed. 
+Then you can commit
+
+If you remode a file and want it to be submit to git version control
+Then after removing this file use the command
+-->git add --all .
+And the deleted file is added to the tracked file
+To submit the changes then as usual 
+-->git commit -m "comments" 
+
+To compare the current version of a file with a previous one (the nth previous here) 
+-->git diff HEAD~n nameoffile
