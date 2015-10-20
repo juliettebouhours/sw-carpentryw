@@ -1,0 +1,500 @@
+   82  xfig
+   83  /Users/juliettebouhours/Documents/matlab7_installer/installer.ini ; exit;
+   84  /Users/juliettebouhours/Documents/matlab7_installer/KeyGen/MakeLic.bat ; exit;
+   85  /Users/juliettebouhours/Documents/MATHWORKS_R2010A.dmg.pifsaa ; exit;
+   86  /Users/juliettebouhours/Documents/MATHWORKS_R2010A.dmg.pifsab ; exit;
+   87  /Users/juliettebouhours/Documents/MATHWORKS_R2010A.dmg.pifsac ; exit;
+   88  /Users/juliettebouhours/Desktop/installer.ini ; exit;
+   89  /Users/juliettebouhours/Desktop/matlab7_installer/installer.ini ; exit;
+   90  /Users/juliettebouhours/Desktop/matlab7_installer/MATHWORKS_R2010A.dmg.pifsaa ; exit;
+   91  /Users/juliettebouhours/Desktop/matlab7_installer/MATHWORKS_R2010A.dmg.pifsab ; exit;
+   92  /Users/juliettebouhours/Desktop/matlab7_installer/MATHWORKS_R2010A.dmg.pifsac ; exit;
+   93  /Volumes/MATHWORKS_R2010A/install ; exit;
+   94  gnuplot
+   95  xfig
+   96  xfig
+   97  xfig
+   98  xfig
+   99  /Users/juliettebouhours/synchroweb.sh ; exit;
+  100  /Users/juliettebouhours/synchroweb.sh ; exit;
+  101  /Users/juliettebouhours/synchroweb.sh ; exit;
+  102  /Users/juliettebouhours/synchroweb.sh ; exit;
+  103  /Users/juliettebouhours/synchroweb.sh ; exit;
+  104  /Users/juliettebouhours/synchroweb.sh ; exit;
+  105  xfig
+  106  xfig
+  107  xfig
+  108  xfig
+  109  xfig
+  110  /Users/juliettebouhours/synchroweb.sh ; exit;
+  111  /Users/juliettebouhours/synchroweb.sh ; exit;
+  112  /Users/juliettebouhours/synchroweb.sh ; exit;
+  113  gnuplot
+  114  gnuplot
+  115  gnuplot
+  116  cd Documents/dossier_these032013/EnergieNadin2012/
+  117  gnuplot
+  118  cd ..
+  119  ls
+  120  cd ..
+  121  ls
+  122  cd Volumes/
+  123  ls
+  124  cd bouhours/
+  125  cd dossier_these032013/Numerical_simulations/travelingfront/
+  126  ls
+  127  FreeFem++ speedmovframeDirichletTW.edp
+  128  FreeFem++ speedmovframeRobinTW.edp
+  129  FreeFem++ speedmovframeRobinTW.edp
+  130  FreeFem++ speedmovframeDirichletTW.edp
+  131  FreeFem++ speedmovframeDirichletTW.edp
+  132  FreeFem++ speedmovframeDirichletTW.edp
+  133  FreeFem++ speedmovframeDirichletTW.edp
+  134  FreeFem++ speedmovframeDirichletTW.edp
+  135  FreeFem++ speedmovframeDirichletTW.edp
+  136  FreeFem++ speedmovframeDirichletTW.edp
+  137  FreeFem++ speedmovframeDirichletTW.edp
+  138  FreeFem++ speedmovframeDirichletTW.edp
+  139  FreeFem++ speedmovframeDirichletTW.edp
+  140  FreeFem++ speedmovframeDirichletTW.edp
+  141  FreeFem++ speedmovframeDirichletTW.edp
+  142  FreeFem++ speedmovframeDirichletTW.edp
+  143  FreeFem++ speedmovframeDirichletTW.edp
+  144  FreeFem++ speedmovframeDirichletTW.edp
+  145  ls
+  146  cd..
+  147  cd ..
+  148  ls
+  149  cd travelingfront/
+  150  FreeFem++ speedmovframeDirichletTW.edp
+  151  FreeFem++ speedmovframeDirichletTW.edp
+  152  FreeFem++ speedmovframeDirichletTW.edp
+  153  FreeFem++ speedmovframeDirichletTW.edp
+  154  FreeFem++ speedmovframeDirichletTW.edp
+  155  FreeFem++ speedmovframeDirichletTW.edp
+  156  FreeFem++ speedmovframeDirichletTW.edp
+  157  FreeFem++ speedmovframeDirichletTW.edp
+  158  FreeFem++ speedmovframeDirichletTW.edp
+  159  FreeFem++ speedmovframeDirichletTW.edp
+  160  FreeFem++ speedmovframeDirichletTW.edp
+  161  FreeFem++ speedmovframeDirichletTW.edp
+  162  FreeFem++ speedmovframeDirichletTW.edp
+  163  FreeFem++ speedmovframeDirichletTW.edp
+  164  FreeFem++ speedmovframeDirichletTW.edp
+  165  FreeFem++ speedmovframeDirichletTW.edp
+  166  FreeFem++ speedmovframeDirichletTW.edp
+  167  FreeFem++ speedmovframeDirichletTW.edp
+  168  FreeFem++ speedmovframeDirichletTW.edp
+  169  FreeFem++ speedmovframeDirichletTW.edp
+  170  FreeFem++ speedmovframeDirichletTW.edp
+  171  FreeFem++ speedmovframeDirichletTW.edp
+  172  FreeFem++ speedmovframeDirichletTW.edp
+  173  FreeFem++ speedmovframeDirichletTW.edp
+  174  FreeFem++ speedmovframeDirichletTW.edp
+  175  FreeFem++ speedmovframeDirichletTW.edp
+  176  FreeFem++ speedmovframeDirichletTW.edp
+  177  FreeFem++ speedmovframeDirichletTW.edp
+  178  FreeFem++ speedmovframeDirichletTW.edp
+  179  FreeFem++ speedmovframeDirichletmulti.edp
+  180  FreeFem++ speedmovframeDirichletmulti.edp
+  181  FreeFem++ speedmovframeDirichletmulti.edp
+  182  FreeFem++ speedmovframeDirichletmulti.edp
+  183  FreeFem++ speedmovframeDirichletmulti.edp
+  184  FreeFem++ speedmovframeDirichletmulti.edp
+  185  FreeFem++ speedmovframeDirichletmulti.edp
+  186  FreeFem++ speedmovframeDirichletmulti.edp
+  187  FreeFem++ speedmovframeDirichletmulti.edp
+  188  FreeFem++ speedmovframeDirichletmulti.edp
+  189  FreeFem++ speedmovframeDirichletmulti.edp
+  190  FreeFem++ speedmovframeDirichletmulti.edp
+  191  FreeFem++ speedmovframeDirichletmulti.edp
+  192  FreeFem++ speedmovframeDirichletmulti.edp
+  193  cd ..
+  194  ls
+  195  cd travelingfront/
+  196  FreeFem++ speedmovframeDirichletmulti.edp
+  197  FreeFem++ speedmovframeDirichletmulti.edp
+  198  FreeFem++ speedmovframeDirichletmulti.edp
+  199  FreeFem++ speedmovframeDirichletmulti.edp
+  200  FreeFem++ speedmovframeDirichletmulti.edp
+  201  FreeFem++ speedmovframeDirichletmulti.edp
+  202  FreeFem++ speedmovframeDirichletmulti.edp
+  203  FreeFem++ speedmovframeDirichletmulti.edp
+  204  FreeFem++ speedmovframeDirichletTW.edp
+  205  FreeFem++ speedmovframeDirichletTW.edp
+  206  FreeFem++ speedmovframeDirichletmulti.edp
+  207  FreeFem++ speedmovframeDirichletTW.edp
+  208  FreeFem++ speedmovframeDirichletmulti.edp
+  209  FreeFem++ speedmovframeDirichletmulti.edp
+  210  cd Documents/dossier_these032013/EnergieNadin2012/
+  211  gnuplot
+  212  gnuplot
+  213  cd ..
+  214  ls
+  215  cd ..
+  216  ls
+  217  cd Volumes/bouhours/dossier_these032013/Numerical_simulations/CylCourbe/
+  218  Freefem++ cylcourbidemfavdefavvideo.edp 
+  219  Freefem++ cylcourbidemfavdefavvideo.edp 
+  220  Freefem++ cylcourbidemfavdefavvideo.edp 
+  221  Freefem++ cylcourbidemfavdefavvideo.edp 
+  222  Freefem++ cylcourbidemfavdefavvideo.edp 
+  223  cd videodroitfavdefav/
+  224  convert videodroitfavdefav_*.eps videodroitfavdefav*.pdf
+  225  convert videodroitfavdefav_*.eps videodroitfavdefav*.jpg
+  226  cd ..
+  227  cd videodemifavdefav/
+  228  convert videodemifavdefav_*.eps videodemifavdefav*.jpg
+  229  cd ..
+  230  cd ..
+  231  cd travelingfront/
+  232  FreeFem++ speedmovframeDirichletmulti.edp
+  233  gnuplot
+  234  cd ..
+  235  cd ..
+  236  cd Volumes/bouhours
+  237  ls
+  238  cd dossier_these032013/Numerical_simulations/travelingfront/
+  239  FreeFem++ speedmovframeDirivthresh.edp
+  240  cd Documents/dossier_these032013/EnergieNadin2012/
+  241  ls
+  242  gnuplot
+  243  ssh bouhours@gpu1
+  244  bouhours@gpu1
+  245  ssh bouhours@gpu1
+  246  screen -ls
+  247  ssh bouhours@gpu1
+  248  ssh bouhours@gpu1
+  249  ssh bouhours@gpu1
+  250  ssh bouhours@gpu1
+  251  ssh bouhours@gpu1
+  252  ssh bouhours@gpu1
+  253  ssh bouhours@gpu1
+  254  cd Desktop/
+  255  gnuplot
+  256  gnuplot
+  257  /Users/juliettebouhours/synchroweb.sh ; exit;
+  258  cd ..
+  259  cd ..
+  260  cd Volumes/bouhours/dossier_these032013/Numerical_simulations/retreCyl/
+  261  ls
+  262  cd eps25retr/
+  263  ls
+  264  cp eps25-0.jpg ../../../../../../Users/juliettebouhours/Documents/dossier_these032013/Presentation_soutenance/eps25retr/eps25-1.jpg
+  265  cp eps25-*.jpg ../../../../../../Users/juliettebouhours/Documents/dossier_these032013/Presentation_soutenance/eps25retr/eps25-*.jpg
+  266  cd ..
+  267  cd ..
+  268  cd Volumes/
+  269  ls
+  270  cd bouhours/dossier_these032013/Numerical_simulations/retreCyl/eps25retr/
+  271  cd ../../../../..
+  272  ls
+  273  cd ..
+  274  ls
+  275  cd Users
+  276  ls
+  277  cd juliettebouhours/
+  278  ls
+  279  cd ..
+  280  ls
+  281  cd ..
+  282  ls
+  283  xfig
+  284  xfig
+  285  xfig
+  286  xfig
+  287  xfig
+  288  xfig 
+  289  xfig
+  290  xfig
+  291  cd
+  292  ls
+  293  cd ..
+  294  ls
+  295  cd ..
+  296  ls
+  297  cd Volumes/bouhours/dossier_these032013/Numerical_simulations/travelingfront/
+  298  FreeFem++ speedmovframeDirichletTW.edp
+  299  FreeFem++ speedmovframeDirichletTW.edp
+  300  FreeFem++ speedmovframeDirichletTW.edp
+  301  FreeFem++ speedmovframeDirichletTW.edp
+  302  FreeFem++ speedmovframeDirichletTW.edp
+  303  FreeFem++ speedmovframeDirichletTW.edp
+  304  xfig
+  305  cd Documents/dossier_these032013/EnergieNadin2012/INRIA/
+  306  gnuplot
+  307  ls
+  308  gnuplot
+  309  /Users/juliettebouhours/synchroweb.sh ; exit;
+  310  gnuplot
+  311  /Users/juliettebouhours/synchroweb.sh ; exit;
+  312  /Users/juliettebouhours/synchroweb.sh ; exit;
+  313  cd Documents/dossier_these032013/EnergieNadin2012/
+  314  ls
+  315  gnuplot
+  316  xfig
+  317  xfig
+  318  /Users/juliettebouhours/synchroweb.sh ; exit;
+  319  /Users/juliettebouhours/synchroweb.sh ; exit;
+  320  /Users/juliettebouhours/synchroweb.sh ; exit;
+  321  /Users/juliettebouhours/synchroweb.sh ; exit;
+  322  /Users/juliettebouhours/synchroweb.sh ; exit;
+  323  /Users/juliettebouhours/synchroweb.sh ; exit;
+  324  /Users/juliettebouhours/synchroweb.sh ; exit;
+  325  ssh bouhours@sas.ljll.math.upmc.fr
+  326  ls
+  327  scp -r public_html bouhours@sas.ljll.math.upmc.fr
+  328  ssh bouhours@sas.ljll.math.upmc.fr
+  329  scp -r public_html bouhours@sas.ljll.math.upmc.fr:
+  330  ssh bouhours@sas.ljll.math.upmc.fr
+  331  xfig
+  332  gnuplot
+  333  xfig
+  334  xfig
+  335  xfig
+  336  xfig
+  337  xfig
+  338  xfig
+  339  gnuplot
+  340  scp -r public_html bouhours@sas.ljll.math.upmc.fr
+  341  ssh bouhours@sas.ljll.math.upmc.fr
+  342  exit
+  343  gnuplot
+  344  scp -r public_html bouhours@sas.ljll.math.upmc.fr:
+  345  ssh bouhours@sas.ljll.math.upmc.fr
+  346  quit
+  347  exit
+  348  gnuplot
+  349  quit
+  350  exit
+  351  ls
+  352  cd Documents/
+  353  ls
+  354  exiy
+  355  exit
+  356  scp -r public_html bouhours@sas.ljll.math.upmc.fr:
+  357  ssh bouhours@sas.ljll.math.upmc.fr
+  358  GNUPLOT
+  359  gnuplot
+  360  gnuplot
+  361  gnuplot
+  362  gnuplot
+  363  ssh bouhours@sirius.math.ualberta.ca
+  364  ssh bouhours@sirius.math.ualberta.ca
+  365  bouhours@gpu.srv.ualberta.ca
+  366  ssh bouhours@gpu.srv.ualberta.ca
+  367  rsync -av -u ~/Desktop/public_html bouhours@sirius.math.ulaberta.ca
+  368  ssh bouhours@gpu.srv.ualberta.ca
+  369  ssh bouhours@sirius.math.ualberta.ca
+  370  ssh bouhours@sirius.math.ualberta.ca
+  371  ls
+  372  rsync -av -u ~/Desktop/public_html bouhours@sirius.math.ulaberta.ca:
+  373  ssh bouhours@sirius.math.ualberta.ca
+  374  rsync -av -u ~/Desktop/public_html bouhours@sirius.math.ualberta.ca
+  375  rsync -av -u ~/Desktop/public_html bouhours@sirius.math.ualberta.ca:
+  376  cd Documents/PostDocUAlberta/BLClimatechange/FreeFem/
+  377  FreeFem++ speedmovframeDirichletmulti.edp
+  378  FreeFem++ speedmovframeDirichletmulti.edp
+  379  FreeFem++ speedmovframeDirichletmulti.edp
+  380  FreeFem++ speedmovframeDirichletmulti.edp
+  381  FreeFem++ speedmovframeDirichletmulti.edp
+  382  FreeFem++ speedmovframeDirichletmulti.edp
+  383  FreeFem++ speedmovframeDirichletmulti.edp
+  384  FreeFem++ speedmovframeDirichletmulti.edp
+  385  FreeFem++ speedmovframeDirichletmulti.edp
+  386  rsync -av -u ~/Desktop/public_html bouhours@sirius.math.ualberta.ca:
+  387  /Users/juliettebouhours/Downloads/LaTeXDraw-3.3.1/install_debian_ubuntu ; exit;
+  388  /Users/juliettebouhours/Downloads/LaTeXDraw-3.3.1/install_fedora ; exit;
+  389  xfig
+  390  xfig
+  391  xfig
+  392  xfig
+  393  xfig
+  394  xfig
+  395  xfig
+  396  scp -r public_html bouhours@sas.ljll.math.upmc.fr:
+  397  ssh bouhours@sas.ljll.math.upmc.fr
+  398  rsync -av -u ~/Desktop/public_html/ bouhour@sirius.math.ualberta.ca:
+  399  rsync -av -u ~/Desktop/public_html/ bouhour@sirius.math.ualberta.ca:
+  400  rsync -av -u ~/Desktop/public_html/ bouhours@sirius.math.ualberta.ca:
+  401  xfig
+  402  xfig
+  403  xfig
+  404  cd Desktop/Numerical_simulations/
+  405  FreeFem++ ElrgCyl.edp 
+  406  FreeFem++ ElrgCyl.edp 
+  407  FreeFem++ ElrgCyl.edp 
+  408  cd eps75/
+  409  convert eps75_*.eps eps75.jpg
+  410  xfig
+  411  xfig
+  412  xfig
+  413  ssh sirius.math.ualberta.ca
+  414  ssh bouhours@sirius.math.ualberta.ca
+  415  rsync -av-u ~/Desktop/public_html bouhours@sirius.math.ualberta.ca:
+  416  rsync -av -u ~/Desktop/public_html bouhours@sirius.math.ualberta.ca:
+  417  scp -r public_html bouhours@sas.ljll.math.upmc.fr:
+  418  ssh bouhours@sas.ljll.math.upmc.fr
+  419  exit
+  420  scp -r public_html bouhours@sas.ljll.math.upmc.fr:
+  421  chmod -R 755 public_html
+  422  rsync -avR --delete public_html -e ssh bouhours@web:
+  423  rsync -avR --delete public_html -e ssh bouhours@web:
+  424  exit
+  425  scp -r public_html bouhours@sas.ljll.math.upmc.fr:
+  426  chmod -R 755 public_html
+  427  rsync -avR --delete public_html -e ssh bouhours@web:
+  428  rsync -av -u ~/Desktop/public_html bouhours@sirius.math.ualberta.ca:
+  429  scp -r public_html bouhours@sas.ljll.math.upmc.fr:
+  430  ssh bouhours@sas.ljll.math.upmc.fr
+  431  scp -r public_html bouhours@sas.ljll.math.upmc.fr
+  432  19aout2004
+  433  scp -r public_html bouhours@sas.ljll.math.upmc.fr:
+  434  ssh bouhours@sas.ljll.math.upmc.fr
+  435  rsync -av -u ~/Desktop/public_html/bouhours@sirius.math.ualberta.ca:
+  436  rsync -av -u ~/Desktop/public_html bouhours@sirius.math.ualberta.ca:
+  437  xfig
+  438  cd Downloads/
+  439  python swc-installation-test-1.py 
+  440  python swc-installation-test-2.py 
+  441  python swc-installation-test-2.py 
+  442  python swc-installation-test-2.py 
+  443  python swc-installation-test-2.py 
+  444  who am I
+  445  whoami
+  446  whereami
+  447  pwd
+  448  ls
+  449  ls -a
+  450  ls -l
+  451  ls- al
+  452  ls -al
+  453  clear
+  454  man
+  455  man ls
+  456  man ls
+  457  man ls
+  458  ls /
+  459  ls /Users/
+  460  ls /dev/
+  461  ls  /cores/
+  462  ls 
+  463  ls /
+  464  ls
+  465  pwd
+  466  ls /Users/juliettebouhours/
+  467  clear
+  468  whoami
+  469  pwd
+  470  ls
+  471  ls /
+  472  ls /Users/
+  473  clear
+  474   ls .
+  475  ls
+  476  ls ..
+  477  pwd
+  478  ls .
+  479  clear
+  480  ls
+  481  ls .
+  482  ls ..
+  483  man ls
+  484  man ls -
+  485  ls ../
+  486  ls ../Shared/
+  487  ls ../Shared/SC\ Info/
+  488  ls ../Shared/adi/
+  489  ls ../Shared/latexdraw/
+  490  ls ../
+  491  ls ../juliettebouhours/
+  492  ls ../../
+  493  ls ../../Users/
+  494  ls ../../../
+  495  ls ../../../../
+  496  clear
+  497  cd /
+  498  pwd
+  499  cd ~
+  500  pwd
+  501  ls
+  502  cd Desktop/
+  503  ls
+  504  pwd
+  505  mkdir SoftwareCarpentry
+  506  ls
+  507  mkdir Terminal Testing
+  508  ls
+  509  mkdir TerminalTesting
+  510  ls
+  511  cd TerminalTesting/
+  512  nano Important_Ideas
+  513  nano Important_Ideas 
+  514  nano Important_Ideas 
+  515  cat Important_Ideas 
+  516  man nano
+  517  man cat
+  518  cat -n Important_Ideas 
+  519  cp Important_Ideas ../
+  520  ls
+  521  ls ../
+  522  ls
+  523  rm ./
+  524  rm .
+  525  cd ../
+  526  ls
+  527  pwd
+  528  rm TerminalTesting/
+  529  rm -r TerminalTesting/
+  530  ls
+  531  rm -r Terminal/
+  532  rm -r Testing/
+  533  cp Important_Ideas Important_Ideas.txt
+  534  ls
+  535  rm Important_Ideas.txt 
+  536  move Important_Ideas Important_Ideas.txt
+  537  mv Important_Ideas Important_Ideas.txt
+  538  ls
+  539  rm HI\ -\ Victoria.pdf 
+  540  curl -L -O http://bit.ly/1ylW533 
+  541  man curl
+  542  ls
+  543  mv Important_Ideas.txt SoftwareCarpentry/
+  544  mv 1ylW533 SoftwareCarpentry/
+  545  cd SoftwareCarpentry/
+  546  ls
+  547  cat 1ylW533 
+  548  head 
+  549  head 1ylW533 
+  550  head -3 1ylW533 
+  551  tail 1ylW533 
+  552  mv 1ylW533 MobyDick.txt
+  553  grep whale MobyDick.txt 
+  554  grep -n whale MobyDick.txt 
+  555  man grep
+  556  man wc
+  557  wc MobyDick.txt 
+  558  wc MobyDick.txt > MobyDickCount.txt
+  559  ls
+  560  cat MobyDickCount.txt 
+  561  history
+  562  history > historyCMD.txt
+  563  ls
+  564  cat historyCMD.txt 
+  565  cp MobyDick.txt MobyDickbackup.txt
+  566  ls
+  567  wc MobyDick.txt >> MobyDickCount2.txt 
+  568  ls
+  569  cat MobyDickCount2.txt 
+  570  cat MobyDickCount.txt 
+  571  grep -w whale MobyDick.txt | wc
+  572  history >> historyCMD.txt 
+  573  cat historyCMD.txt 
+  574  history > historyCMD.txt 
+  575  cat historyCMD.txt 
+  576  cat historyCMD.txt 
+  577  tr '''\n'< MobyDick.txt 
+  578  tr ' ''\n'< MobyDick.txt 
+  579  tr ' ' '\n'< MobyDick.txt 
+  580  tr ' ' '\n'< MobyDick.txt | grep -w whale |wc -l
+  581  history > historyCMD.txt 

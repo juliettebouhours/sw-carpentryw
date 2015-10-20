@@ -1,0 +1,6 @@
+- move around your computer with the terminal
+- understand how to use the command in nano
+- how to execute a command for a finite number of file named the same with
+	the same name but extension from 1 to n
+
+
