@@ -33,3 +33,6 @@ To submit the changes then as usual
 
 To compare the current version of a file with a previous one (the nth previous here) 
 -->git diff HEAD~n nameoffile
+To compare two different past versions
+--> git diff HEAD~1 HEAD~2 nameoffile
+
